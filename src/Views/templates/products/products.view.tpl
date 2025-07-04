@@ -91,5 +91,5 @@
             {{endfor products}}
         </tbody>
     </table>
-    {{pagination}}Add commentMore actions
+    {{pagination}}
 </section>
